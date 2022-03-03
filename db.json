@@ -1,14 +1,11 @@
 {
   "posts": [
-{"id":"1","title":"demo"},
-{"id":"2","title":"demo"},
-{"id":"3","title":"demo"},
-{"id":"4","title":"demo"},
-{"id":"5","title":"demo"},
-{"id":"6","title":"demo"},
-{"id":"7","title":"demo"},
-{"id":"8","title":"demo"},
-{"id":"9","title":"demo"},
-{"id":"10","title":"demo"}
-]
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
